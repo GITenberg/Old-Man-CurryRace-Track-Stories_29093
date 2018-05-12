@@ -1,0 +1,32 @@
+_repo: Old-Man-CurryRace-Track-Stories_29093
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Van Loan, Charles E. (Charles Emmett)
+    aliases:
+    - Loan, Charles Emmett Van
+    - Loan, Charles E. Van (Charles Emmett)
+    birthdate: 1876
+    deathdate: 1919
+    gutenberg_agent_id: '33693'
+    url: http://www.gutenberg.org/2009/agents/33693
+description: ''
+gutenberg_issued: '2009-06-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29093'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Horse racing -- Fiction'
+- !lcc 'PS'
+tableOfContents: Levelling with Elisha -- Playing even for Obadiah -- By a hair --
+  The last chance -- Sanguinary Jeremiah -- Eliphaz, late Fairfax -- The redemption
+  handicap -- A morning workout -- Egyptian corn -- The modern judgment of Solomon.
+title: 'Old Man Curry: Race Track Stories'
+url: http://www.gutenberg.org/ebooks/29093
